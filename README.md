@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alaa Abdalqader 20 y.o
 - 👀 I’m software engineering student at jordan university of science and technology 
-- 🌱 I’m currently learning javascript,flatter
+- 🌱 I’m currently learning javascript,Python
 - ✨ Codeforces acc : eylem2002
 
 <!---
