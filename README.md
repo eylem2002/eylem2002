@@ -1,5 +1,5 @@
 - Alaa Abdalqader 20 y.o
-- software Engineering Student at jordan university of science and technology 
+- Software Engineering Student At Jordan University of Science and Technology 
 - Codeforces acc : Rei_Furuya
 
 <!---
