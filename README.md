@@ -1,6 +1,5 @@
 <h1>Jordan University of Science and Technology</h1>
         <h2>Bachelor of Software Engineering</h2>
-        <h3>Oct 2020 – Jun 2024</h3>
 
  <p>Motivated Junior Software Engineer skilled in Mobile Development (Flutter with Firebase, Android using Java, SQL, PHP). Strong problem-solving skills, experience in agile development, and a collaborative team player. Always up-to-date with industry trends and eager to contribute to impactful projects.</p>
 
