@@ -51,11 +51,4 @@
 
 
 
-<div align="left">
-  <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eylem2002/eylem2002/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-###
