@@ -3,6 +3,12 @@
 
  <p>Motivated Junior Software Engineer skilled in Mobile Development (Flutter with Firebase, Android using Java, SQL, PHP). Strong problem-solving skills, experience in agile development, and a collaborative team player. Always up-to-date with industry trends and eager to contribute to impactful projects.</p>
 
+ <ul>
+            <li><strong>I’m currently working on developing my skills.</strong></li>
+            <li><strong>I'm in love with participating in competitions.</strong></li>
+            <li><strong>I am eager for any chance to work on special projects.</strong></li>
+            <li><strong>Passionate about learning and implementing new technologies.</strong></li>
+        </ul>
 
 
 
