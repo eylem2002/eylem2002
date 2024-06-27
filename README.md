@@ -1,4 +1,4 @@
-<h2>Hola I'm Ala'a Software Engineer</h2>
+<h2>Hi I'm Ala'a Software Engineer</h2>
 
 
  <p>Motivated Junior Software Engineer skilled in Mobile Development (Flutter with Firebase, Android using Java, SQL, PHP). Strong problem-solving skills, experience in agile development, and a collaborative team player. Always up-to-date with industry trends and eager to contribute to impactful projects.</p>
