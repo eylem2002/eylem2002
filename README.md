@@ -8,6 +8,7 @@
             <li><strong>I'm in love with participating in competitions.</strong></li>
             <li><strong>I am eager for any chance to work on special projects.</strong></li>
             <li><strong>Passionate about learning and implementing new technologies.</strong></li>
+  <li><strong>Check my Acc on codeforces Rei_Furuya</strong></li>
         </ul>
 
 
